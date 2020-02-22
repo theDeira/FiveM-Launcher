@@ -1,0 +1,11 @@
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\bin\Debug\corazon_launcher_fivem.exe.config
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\bin\Debug\corazon_launcher_fivem.exe
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\bin\Debug\corazon_launcher_fivem.pdb
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\bin\Debug\corazon_launcher_fivem.xml
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.vbprojAssemblyReference.cache
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.Form1.resources
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.Resources.resources
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.vbproj.GenerateResource.cache
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.exe
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.xml
+C:\Users\Hoyame\source\repos\corazon_launcher_fivem\corazon_launcher_fivem\obj\Debug\corazon_launcher_fivem.pdb
